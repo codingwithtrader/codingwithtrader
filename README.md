@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm KK (Coding With Trader)
 
-<!--
-**codingwithtrader/codingwithtrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | 📊 Swing & Options Trader | 🤖 Automation Builder
 
-Here are some ideas to get you started:
+I build tools, scripts and automation using Python —  
+from file automation to trading utilities and data analyzers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+- Python (Core + OOP)  
+- Automation Scripts  
+- File Handling  
+- APIs (Weather, Finance)  
+- Data Analysis (Basics)  
+- Trading Tools (Indicators, Data fetch, Charts)
+
+---
+
+## 🛠 Projects  
+### 🔹 Python Basics  
+- Number Guessing Game  
+- Calculator  
+- Countdown Timer  
+- To-Do App  
+- Quiz App  
+
+### 🔹 Automation Scripts  
+- File Organizer  
+- Contact Book  
+- Weather Report App  
+
+*(More projects coming soon...)*
+
+---
+
+## 📫 Connect  
+Feel free to explore my repositories and reach out!  
